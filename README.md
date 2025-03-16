@@ -7,6 +7,8 @@
 ## Cookiecutter Data Science
 This project template is a simplified version of the [Cookiecutter Data Science](https://cookiecutter-data-science.drivendata.org) template, created to suit the needs of Datalumina and made available as a GitHub template.
 
+[VS Code for Data and AI Projects - Install and extensions](https://datalumina.clickup.com/docs/9015213037/d/h/8cnjezd-17675/ddd52c673443975)
+
 ## Adjusting .gitignore
 
 Ensure you adjust the `.gitignore` file according to your project needs. For example, since this is a template, the `/data/` folder is commented out and data will not be exlucded from source control:
